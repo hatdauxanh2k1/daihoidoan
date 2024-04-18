@@ -8,11 +8,6 @@
 /* Styles */
 body {
   font-family: Arial, sans-serif;
-  background-image: url("./assets/img/banner.jpg");
-  background-position: center;
-  backdrop-filter: brightness(60%);
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 main {
@@ -32,7 +27,7 @@ main {
 
 .container h1 {
   color: #3cc2f7;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   font-size: 24px;
 }
 
@@ -53,6 +48,7 @@ main {
   list-style: none;
   border: 1px solid;
   border-radius: 15px;
+  text-align: left;
 }
 
 .nav-list li a {
