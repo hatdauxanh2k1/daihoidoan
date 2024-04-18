@@ -8,7 +8,7 @@
 /* Styles */
 body {
   font-family: Arial, sans-serif;
-  background-image: url("/assets/img/banner.jpg");
+  background-image: url("./assets/img/banner.jpg");
   background-position: center;
   backdrop-filter: brightness(60%);
   background-repeat: no-repeat;
